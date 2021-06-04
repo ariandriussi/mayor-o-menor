@@ -1,0 +1,10 @@
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\bin\Debug\trabajo practico integrado.exe.config
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\bin\Debug\trabajo practico integrado.exe
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\bin\Debug\trabajo practico integrado.pdb
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\obj\Debug\trabajo practico integrado.csprojAssemblyReference.cache
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\obj\Debug\trabajo_practico_integrado.Form1.resources
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\obj\Debug\trabajo_practico_integrado.Properties.Resources.resources
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\obj\Debug\trabajo practico integrado.csproj.GenerateResource.cache
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\obj\Debug\trabajo practico integrado.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\obj\Debug\trabajo practico integrado.exe
+C:\Users\arian\Desktop\all\varios\ies\programacion logica 2\trabajo practico integrado\trabajo practico integrado\obj\Debug\trabajo practico integrado.pdb
